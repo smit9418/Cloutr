@@ -1,4 +1,4 @@
-# **Whitepaper: Cloutr – The Future of Decentralized Social Media**
+# **Cloutr – The Future of Decentralized Social Media**
 
 ## **Introduction**
 
