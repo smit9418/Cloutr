@@ -1,4 +1,6 @@
-Cloutr – The Future of Decentralized Social Media
+Cloutr
+The Future of Decentralized Social Media
+
 Introduction
 In today’s world, creators, advertisers, users, and developers are constrained by the limits of centralized platforms that prioritize profits over people. Cloutr is here to change that. We are building a decentralized social media platform that empowers creators, rewards content hosts, offers a fair and transparent space for advertisers, and incentivizes developers who contribute to the ecosystem.
 
